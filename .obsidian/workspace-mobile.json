@@ -11,10 +11,12 @@
             "id": "c11589bd1a82cdec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Nagios.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Nagios.excalidraw"
             }
           }
         ]
@@ -138,6 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,6 +153,10 @@
   },
   "active": "c11589bd1a82cdec",
   "lastOpenFiles": [
+    "Nagios.excalidraw.md",
+    "Tcpdump.md",
+    "Snort(IDS(INTRUSION DETECTION SYSTEM)).md",
+    "Information Security.md",
     "New Text Document.txt"
   ]
 }
