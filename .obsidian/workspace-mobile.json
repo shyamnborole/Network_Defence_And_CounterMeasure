@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Nagios.excalidraw"
             }
+          },
+          {
+            "id": "d8a6dd625a1c7a22",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-11-08 11.27.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-08 11.27.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Drawing 2025-11-08 11.27.56.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,9 +165,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c11589bd1a82cdec",
+  "active": "d8a6dd625a1c7a22",
   "lastOpenFiles": [
+    "Drawing 2025-11-08 11.27.56.excalidraw.md",
     "Nagios.excalidraw.md",
+    "Assignmentvmware.excalidraw.md",
+    "Drawing 2025-11-08 11.19.49.excalidraw.md",
+    "VPN.md",
     "Tcpdump.md",
     "Snort(IDS(INTRUSION DETECTION SYSTEM)).md",
     "Information Security.md",
