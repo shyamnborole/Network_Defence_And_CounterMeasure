@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "47a23654426c1851",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b0d306e6bb94d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ddfa826fe1c2e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nagios host config files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nagios host config files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86758460917d6474",
+    "type": "split",
+    "children": [
+      {
+        "id": "1309f9609288c624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61bce0d69ca559b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "398e1df504d8c94e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfb5b9b425927a71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5330516dc69f982",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3f95797237c06b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca36ed25c782e09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nagios.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nagios.excalidraw"
+            }
+          },
+          {
+            "id": "84e65c6a55453bb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nagios.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nagios.excalidraw"
+            }
+          },
+          {
+            "id": "c786c8b1afeb668b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad23ddf0f463efe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nagios.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nagios.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7ddfa826fe1c2e51",
+  "lastOpenFiles": [
+    "Nagios step by step.md",
+    "Nagios host config files.md",
+    "Nagios.excalidraw.md",
+    "VPN.md",
+    "Drawing 2025-11-08 11.27.56.excalidraw.md",
+    "Drawing 2025-11-08 11.19.49.excalidraw.md",
+    "Assignmentvmware.excalidraw.md",
+    "7. Installing the Nagios Plugins 1.md",
+    "Information Security.md",
+    "Nagios.excalidraw.pdf",
+    "Snort(IDS(INTRUSION DETECTION SYSTEM)).md"
+  ]
+}
