@@ -13,26 +13,25 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Nagios.excalidraw.md"
+                "file": "Nagios/Monitoringusngnagioslinuz.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Nagios.excalidraw"
+              "title": "Monitoringusngnagioslinuz.excalidraw"
             }
           },
           {
-            "id": "d8a6dd625a1c7a22",
+            "id": "a72a8d526012b0ea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-11-08 11.27.56.excalidraw.md"
+                "file": "PfsenseOS/Assignmentvmware.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-08 11.27.56.excalidraw"
+              "title": "Assignmentvmware.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2025-11-08 11.27.56.excalidraw.md",
+            "file": "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,12 +164,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8a6dd625a1c7a22",
+  "active": "c11589bd1a82cdec",
   "lastOpenFiles": [
+    "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
+    "PfsenseOS/Assignmentvmware.excalidraw.md",
+    "ReverseProxy.excalidraw.md",
+    "PfsenseOS/PgsenseOS.excalidraw.md",
+    "PfsenseOS",
+    "Nagios/Nagios.excalidraw.pdf",
+    "Nagios/Nagios step by step.md",
+    "Nagios/Nagios host config files.md",
+    "Nagios/7. Installing the Nagios Plugins 1.md",
+    "Nagios/Nagios_host_connect_to_server.md",
+    "/Nagios/Nagios.excalidraw.pdf",
+    "Nagios/Nagios.excalidraw.md",
+    "/Nagios/Nagios step by step.md",
+    "/Nagios/Nagios host config files.md",
+    "/Nagios/7. Installing the Nagios Plugins 1.md",
+    "/Nagios/Nagios_host_connect_to_server.md",
+    "/Nagios/Nagios.excalidraw.md",
     "Drawing 2025-11-08 11.27.56.excalidraw.md",
+    "Nagios",
+    "/Nagios",
     "Nagios.excalidraw.md",
-    "Assignmentvmware.excalidraw.md",
-    "Drawing 2025-11-08 11.19.49.excalidraw.md",
     "VPN.md",
     "Tcpdump.md",
     "Snort(IDS(INTRUSION DETECTION SYSTEM)).md",
