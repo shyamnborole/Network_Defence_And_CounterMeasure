@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "9de64469291680a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ReverseProxy.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ReverseProxy.excalidraw"
+            }
+          },
+          {
+            "id": "af464cd5300bb794",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-11-10 08.48.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-10 08.48.02.excalidraw"
+            }
+          },
+          {
             "id": "a72a8d526012b0ea",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               "title": "Assignmentvmware.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,11 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c11589bd1a82cdec",
+  "active": "af464cd5300bb794",
   "lastOpenFiles": [
+    "Drawing 2025-11-10 08.48.02.excalidraw.md",
+    "ReverseProxy.excalidraw.md",
+    "Nagios/Nagios host config files for monitoring Windows and Linux.md",
+    "/Nagios/Nagios host config files for monitoring Windows and Linux.md",
+    "/Nagios",
+    "Drawing 2025-11-09 18.01.59.excalidraw.md",
     "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
     "PfsenseOS/Assignmentvmware.excalidraw.md",
-    "ReverseProxy.excalidraw.md",
     "PfsenseOS/PgsenseOS.excalidraw.md",
     "PfsenseOS",
     "Nagios/Nagios.excalidraw.pdf",
@@ -185,7 +215,6 @@
     "/Nagios/Nagios.excalidraw.md",
     "Drawing 2025-11-08 11.27.56.excalidraw.md",
     "Nagios",
-    "/Nagios",
     "Nagios.excalidraw.md",
     "VPN.md",
     "Tcpdump.md",
