@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d217c9acc76bb8",
+        "id": "67b7c6384335f05e",
         "type": "tabs",
         "children": [
           {
-            "id": "c11589bd1a82cdec",
+            "id": "3fae816272449fe5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Nagios/Monitoringusngnagioslinuz.excalidraw.md"
+                "file": "Drawing 2025-11-10 18.06.58.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Monitoringusngnagioslinuz.excalidraw"
-            }
-          },
-          {
-            "id": "9de64469291680a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ReverseProxy.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ReverseProxy.excalidraw"
-            }
-          },
-          {
-            "id": "af464cd5300bb794",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-11-10 08.48.02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-10 08.48.02.excalidraw"
-            }
-          },
-          {
-            "id": "a72a8d526012b0ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "PfsenseOS/Assignmentvmware.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Assignmentvmware.excalidraw"
+              "title": "Drawing 2025-11-10 18.06.58.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,16 +152,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af464cd5300bb794",
+  "active": "3fae816272449fe5",
   "lastOpenFiles": [
-    "Drawing 2025-11-10 08.48.02.excalidraw.md",
+    "Drawing 2025-11-10 18.06.58.excalidraw.md",
+    "PfsenseOS/Assignmentvmware.excalidraw.md",
+    "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
     "ReverseProxy.excalidraw.md",
+    "Firewall.md",
     "Nagios/Nagios host config files for monitoring Windows and Linux.md",
     "/Nagios/Nagios host config files for monitoring Windows and Linux.md",
     "/Nagios",
     "Drawing 2025-11-09 18.01.59.excalidraw.md",
-    "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
-    "PfsenseOS/Assignmentvmware.excalidraw.md",
     "PfsenseOS/PgsenseOS.excalidraw.md",
     "PfsenseOS",
     "Nagios/Nagios.excalidraw.pdf",
