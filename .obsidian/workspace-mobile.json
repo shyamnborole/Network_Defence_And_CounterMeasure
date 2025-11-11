@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fae816272449fe5",
+            "id": "4da786a725b9081e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-11-10 18.06.58.excalidraw.md"
+                "file": "SIEM_OSSIM.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-10 18.06.58.excalidraw"
+              "title": "SIEM_OSSIM"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
+            "file": "SIEM_OSSIM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,15 +152,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fae816272449fe5",
+  "active": "4da786a725b9081e",
   "lastOpenFiles": [
-    "Drawing 2025-11-09 18.01.59.excalidraw.md",
+    "SIEM_OSSIM.md",
+    "Syslog.md",
+    "ClearOS.md",
     "Nagios/Nagios_host_connect_to_server.md",
     "Nagios/Nagios step by step.md",
     "Nagios/Nagios host config files for monitoring Windows and Linux.md",
     "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
     "Nagios/7. Installing the Nagios Plugins 1.md",
-    "Drawing 2025-11-10 18.06.58.excalidraw.md",
     "PfsenseOS/Assignmentvmware.excalidraw.md",
     "ReverseProxy.excalidraw.md",
     "Firewall.md",
