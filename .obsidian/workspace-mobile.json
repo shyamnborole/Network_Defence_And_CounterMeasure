@@ -32,9 +32,33 @@
               "icon": "excalidraw-icon",
               "title": "Temp"
             }
+          },
+          {
+            "id": "3c8a3b86881f88ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-13 08.52.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-13 08.52.19.excalidraw"
+            }
+          },
+          {
+            "id": "dffd6cb6f7012ee3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-11-13 08.52.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-13 08.52.29.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,9 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77f9649acc3ed66",
+  "active": "dffd6cb6f7012ee3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-13 08.52.19.excalidraw.md",
+    "Drawing 2025-11-13 08.52.29.excalidraw.md",
     "Temp.md",
+    "Excalidraw",
     "Nagios/Nagios step by step.md",
     "Information Security.md",
     "ReverseProxy.excalidraw.md",
@@ -198,8 +225,6 @@
     "Drawing 2025-11-08 11.27.56.excalidraw.md",
     "Nagios",
     "Nagios.excalidraw.md",
-    "VPN.md",
-    "Tcpdump.md",
     "New Text Document.txt"
   ]
 }
