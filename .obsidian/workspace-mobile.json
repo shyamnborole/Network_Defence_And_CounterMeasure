@@ -51,10 +51,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-11-13 08.52.29.excalidraw.md"
+                "file": "Firewall.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-13 08.52.29.excalidraw"
+              "title": "Firewall"
             }
           }
         ],
@@ -193,6 +193,7 @@
   },
   "active": "dffd6cb6f7012ee3",
   "lastOpenFiles": [
+    "Firewall.md",
     "Excalidraw/Drawing 2025-11-13 08.52.19.excalidraw.md",
     "Drawing 2025-11-13 08.52.29.excalidraw.md",
     "Temp.md",
@@ -208,7 +209,6 @@
     "Nagios/Monitoringusngnagioslinuz.excalidraw.md",
     "Nagios/7. Installing the Nagios Plugins 1.md",
     "PfsenseOS/Assignmentvmware.excalidraw.md",
-    "Firewall.md",
     "/Nagios/Nagios host config files for monitoring Windows and Linux.md",
     "/Nagios",
     "PfsenseOS/PgsenseOS.excalidraw.md",
