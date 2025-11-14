@@ -56,9 +56,21 @@
               "icon": "excalidraw-icon",
               "title": "Firewall"
             }
+          },
+          {
+            "id": "851a479f5a85529b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-11-14 08.48.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-14 08.48.37.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dffd6cb6f7012ee3",
+  "active": "851a479f5a85529b",
   "lastOpenFiles": [
+    "Drawing 2025-11-14 08.48.37.excalidraw.md",
     "Firewall.md",
     "Excalidraw/Drawing 2025-11-13 08.52.19.excalidraw.md",
     "Drawing 2025-11-13 08.52.29.excalidraw.md",
@@ -224,7 +237,6 @@
     "/Nagios/Nagios.excalidraw.md",
     "Drawing 2025-11-08 11.27.56.excalidraw.md",
     "Nagios",
-    "Nagios.excalidraw.md",
     "New Text Document.txt"
   ]
 }
